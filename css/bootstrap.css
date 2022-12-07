@@ -4231,6 +4231,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .painel-de-preco {
     width: 1000px; 
     height: 625px;
+  }   
+  .biel {
+    width: 1000px; 
+    height: 760px;
   }  
 }
 .navbar-nav {
@@ -4246,6 +4250,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     width: 500px; 
     height: 315px;
   }    
+  .biel {
+    width: 500px; 
+    height: 380px;
+  }   
   .navbar-nav .open .dropdown-menu {
     position: static;
     float: none;
